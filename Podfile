@@ -7,4 +7,8 @@ target 'AimLoginDemo3.0' do
 
   # Pods for AimLoginDemo3.0
 
+pod 'FBSDKCoreKit'
+pod 'FBSDKShareKit'
+pod 'FBSDKLoginKit'
+
 end

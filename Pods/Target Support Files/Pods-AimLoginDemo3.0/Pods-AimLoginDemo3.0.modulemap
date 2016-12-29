@@ -1,0 +1,6 @@
+framework module Pods_AimLoginDemo3_0 {
+  umbrella header "Pods-AimLoginDemo3.0-umbrella.h"
+
+  export *
+  module * { export * }
+}
